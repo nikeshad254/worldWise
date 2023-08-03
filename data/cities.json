@@ -37,28 +37,28 @@
       "id": 98443197
     },
     {
-      "cityName": "Baran",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Shadananda",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2023-08-03T15:10:55.423Z",
+      "notes": "yo yo",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": "27.35522884069499",
+        "lng": "87.03060778661346"
       },
-      "id": 121212
+      "id": 98443198
     },
     {
-      "cityName": "Kunai",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Patan",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2023-08-03T15:17:14.151Z",
+      "notes": "patan",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "27.647429846548313",
+        "lng": "85.33696459399884"
       },
-      "id": 112
+      "id": 98443199
     }
   ]
 }
